@@ -6,7 +6,7 @@ from datetime import date
 
 
 
-api_key = "5b7b7dd75867eb4745011a899eb38d60" #Update Your API Here
+api_key = "" #Update Your API Here
 position = [300, 430, 555, 690, 825]
 
 uk_list = ["London", "Manchester", "Edinburgh", "Bristol", "Birmingham"]
